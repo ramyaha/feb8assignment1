@@ -1,0 +1,6 @@
+km=int(input('enter the distance between two places'))
+cm=(km*100000)
+print('cm value is',cm)
+output:
+enter the distance between two places 15
+cm value is 1500000
